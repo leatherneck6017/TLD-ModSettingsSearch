@@ -1,14 +1,14 @@
 # Mod Settings Search
 
-Got so many mods that finding one in Mod Settings takes a dozen arrow clicks? Mod Settings Search is here to help!
+Got so many mods that finding one in MOD SETTINGS takes a dozen arrow clicks? Mod Settings Search is here to help!
 
-Mod Settings Search is a mod for The Long Dark that adds a search to the Mod Settings screen. Click **Search** next to the mod picker, type a few letters, and pick the mod from the list to jump straight to its settings page.
+Mod Settings Search is a mod for The Long Dark that adds a search to the MOD SETTINGS screen. Click **SEARCH** next to the mod picker, type a few letters, and pick the mod from the list to jump straight to its settings page.
 
 ![Mod Settings Search popup](imgs/ModSettingsSearchPopup.jpg)
 
 ## Features
 
-- A **Search** button next to the mod picker on Options > Mod Settings, plus a Ctrl+F shortcut that works from the main menu, the pause menu and any Options tab.
+- A **SEARCH** button next to the mod picker on OPTIONS > MOD SETTINGS, plus a Ctrl+F shortcut that works from the main menu, the pause menu and any OPTIONS tab.
 - A popup with a search box and a scrollable list of every mod that has a settings page (mods whose settings are all hidden are left out, the same as in the picker).
 - The list is in the same order as the mod picker and opens with the list active, so arrow keys and Enter work straight away. Press Tab or click the search box to type.
 - The list narrows as you type. Names that start with your text come first, and spaces are ignored, so `itemweight` finds "Item Weight Tweaker".
@@ -22,7 +22,7 @@ Mod Settings Search is a mod for The Long Dark that adds a search to the Mod Set
 
 | Action | Keyboard / mouse | Controller |
 | --- | --- | --- |
-| Open the search | Click **Search**, press Enter on the mod picker row, or press Ctrl+F (also works from the main menu, the pause menu and any Options tab, and takes you straight to Mod Settings) | Press A on the mod picker row |
+| Open the search | Click **SEARCH**, press Enter on the mod picker row, or press Ctrl+F (also works from the main menu, the pause menu and any OPTIONS tab, and takes you straight to MOD SETTINGS) | Press A on the mod picker row |
 | Filter the list | Press Tab or click the search box, then type (the popup opens with the list active, not the box) | - |
 | Move through the list | Up/Down, Page Up/Page Down, mouse wheel, drag the scroll bar or click above/below it | D-pad / left stick |
 | Open the highlighted mod | Enter, or click a name | A |
