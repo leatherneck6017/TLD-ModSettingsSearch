@@ -3,5 +3,8 @@
     <File Path="CHANGELOG.md" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/Solution Items/imgs/">
+    <File Path="imgs/ModSettingsSearchPopup.jpg" />
+  </Folder>
   <Project Path="src/ModSettingsSearch/ModSettingsSearch.csproj" />
 </Solution>
